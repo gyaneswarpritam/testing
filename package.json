@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/gyaneswarpritam/testing/issues"
   },
-  "homepage": "https://github.com/gyaneswarpritam/testing#readme"
+  "homepage": "https://github.com/gyaneswarpritam/testing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
